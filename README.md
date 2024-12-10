@@ -4,7 +4,7 @@
 
 
 ### 🎥 **Watch the Demo**
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772)
+[![Watch the demo](https://cdn.iconscout.com/icon/free/png-256/free-video-1980268-1674035.png)](https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772)
 
 
 ## **Description du projet**
