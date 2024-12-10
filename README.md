@@ -1,6 +1,11 @@
 
 # Stage de Fin d'Études - Projet
 
+
+![Videoooo](https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772)
+
+
+
 ## **Description du projet**
 Ce projet est le résultat du travail effectué dans le cadre de mon stage de fin d'études. Son objectif est de développer et déployer une application web pour la gestion des stagiaires et la , en mettant en œuvre des concepts avancés de développement logiciel et de gestion de projet.
 
