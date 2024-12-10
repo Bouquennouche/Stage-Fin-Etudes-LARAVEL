@@ -3,7 +3,7 @@
 
 
 
-### 🎥 **Watch the Demo**
+## 🎥 **Voir le demo**
 [![Watch the demo](https://cdn.iconscout.com/icon/free/png-256/free-video-1980268-1674035.png)](https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772)
 
 
