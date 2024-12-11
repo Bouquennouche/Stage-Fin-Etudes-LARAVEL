@@ -6,8 +6,12 @@ Ce projet est le résultat du travail effectué dans le cadre de mon stage de fi
 
 L'application vise à fournir une solution robuste, performante et intuitive pour répondre aux besoins des utilisateurs finaux.
 
+
 ## 🎥 **Voir la demo**
-https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772
+[https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772](https://github.com/user-attachments/assets/c6f33c3b-00aa-4567-9c87-c36f15a2519f
+)
+
+
 
 ## **Fonctionnalités principales**
 - **Authentification et Gestion des utilisateurs** : Système d'inscription, de connexion et de gestion des profils utilisateurs.
