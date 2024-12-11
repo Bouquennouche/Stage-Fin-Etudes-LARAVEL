@@ -1,16 +1,13 @@
 
 # Stage de Fin d'Études - Projet
 
-
-
-## 🎥 **Voir le demo**
-[![Watch the demo](https://cdn.iconscout.com/icon/free/png-256/free-video-1980268-1674035.png)](https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772)
-
-
 ## **Description du projet**
 Ce projet est le résultat du travail effectué dans le cadre de mon stage de fin d'études. Son objectif est de développer et déployer une application web pour la gestion des stagiaires et la , en mettant en œuvre des concepts avancés de développement logiciel et de gestion de projet.
 
 L'application vise à fournir une solution robuste, performante et intuitive pour répondre aux besoins des utilisateurs finaux.
+
+## 🎥 **Voir la demo**
+https://github.com/Bouquennouche/Stage-fin-etudes/issues/1#issue-2731225772
 
 ## **Fonctionnalités principales**
 - **Authentification et Gestion des utilisateurs** : Système d'inscription, de connexion et de gestion des profils utilisateurs.
